@@ -7,5 +7,7 @@ Nela veremos conceitos fundamentais de testes, testes manuais e testes automatiz
 ## Integrantes
 
 Leon Lourenço da Silva Santos
+
 Vinícius Ferreira Ferraz
+
 Vithória Camila da Silva Bastos
