@@ -8,11 +8,11 @@ Nela veremos conceitos fundamentais de testes, testes manuais e testes automatiz
 
 ## Introdução
 
-Testes de software são fundamentais para garantir a qualidade e a confiabilidade de um produto ou sistema, pois auxiliam na identificação de defeitos, falhas de funcionamento e vulnerabilidades de segurança antes que o software seja lançado para uso público. 
+Testes de software são importantes para garantir a qualidade e a confiabilidade de um produto ou sistema, pois auxiliam na identificação de defeitos, falhas de funcionamento e vulnerabilidades de segurança antes que o software seja lançado para uso público. 
 
 Além disso, os testes ajudam a garantir que o software atenda aos requisitos especificados e às expectativas dos usuários finais. Ao detectar e corrigir problemas precocemente no ciclo de desenvolvimento, os testes de software ajudam a economizar tempo e recursos, evitando retrabalhos futuros. 
 
-Ou seja, investir em testes de software não só aumenta a confiabilidade e a estabilidade de um produto, mas também contribui para a satisfação do cliente e para a reputação da empresa no mercado.
+Ou seja, investir em testes de software, além de aumentar a confiabilidade e a estabilidade de um produto, também contribui para a satisfação do cliente e para a reputação da empresa no mercado.
 
 ## Integrantes
 
